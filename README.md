@@ -1,5 +1,5 @@
 # Two-Wheeler-Performance-Tracker
-Purpose This project aims to analyze the bike sales performance for several regions and demographicsThe project uses Excel to process and analyze customer data, including information on customer age, gender, education level, and income. The analysis will identify the key performance indicators (KPIs) that impact bike sales and provide insights for improving sales performance.
+Purpose This project aims to analyze the bike sales performance for several regions and demographics. The project uses Excel to process and analyze customer data, including information on customer age, gender, education level, and income. The analysis will identify the key performance indicators (KPIs) that impact bike sales and provide insights for improving sales performance.
 
 Methodology
 The analysis will be conducted in Excel, and it will include the following steps:
